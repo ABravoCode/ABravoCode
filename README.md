@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying in **Multimedia Technology** Stream in Dept of CS, Faculty of Engg., HKU
 
-- 📫 Feel free to reach me at [mailto:jeremyse0714@gmail.com](jeremyse0714@gmail.com)
+- 📫 Feel free to reach me at [jeremyse0714@gmail.com](mailto:jeremyse0714@gmail.com)
 
 <p align="left">
 </p>
