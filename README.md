@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abravocode&label=Profile%20views&color=0e75b6&style=flat" alt="abravocode" /> </p>
 
-- 🌱 I’m currently learning **Multimedia Technology**
+- 🌱 I’m currently studying in **Multimedia Technology** Stream in Dept of CS, Faculty of Engg., HKU
 
 - 📫 How to reach me **jeremyse0714@gmail.com**
 
